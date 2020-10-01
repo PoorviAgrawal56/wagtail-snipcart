@@ -1,4 +1,4 @@
-# Django E-Commerce Tutorial: Wagtail CMS + Snipcart
+# Django framework E-Commerce Tutorial: Wagtail CMS + Snipcart
 
 Check out this in-depth Django e-commerce tutorial using both Wagtail CMS & Snipcart's shopping cart platform.
 
